@@ -1,3 +1,7 @@
+/**
+ * (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+ */
+
 // @ts-check
 
 /** @type {import('@docusaurus/types').Config} */
