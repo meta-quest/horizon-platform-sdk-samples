@@ -5,16 +5,16 @@
   LICENSE file in the root directory of this source tree.
 -->
 
-# Horizon Platform SDK — Android Sample Apps
+# VR Platform SDK — Android Sample Apps
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Meta Quest](https://img.shields.io/badge/Meta_Quest-Developer-1877F2)](https://developers.meta.com/horizon/)
 
-Standalone Android sample apps demonstrating each [Horizon Platform SDK](https://developers.meta.com/horizon/documentation/android-apps/ps-setup-kotlin/) API.
+Standalone Android sample apps demonstrating each [VR Platform SDK](https://developers.meta.com/horizon/documentation/android-apps/ps-setup-kotlin/) API.
 
 ## What is this?
 
-This repository contains **16 standalone Gradle projects**, one for each public Horizon Platform SDK API. Each sample is a minimal, self-contained Android app built with Kotlin and Jetpack Compose that shows how to integrate and call a single Platform SDK API on Meta Quest devices running Horizon OS.
+This repository contains **16 standalone Gradle projects**, one for each public VR Platform SDK API. Each sample is a minimal, self-contained Android app built with Kotlin and Jetpack Compose that shows how to integrate and call a single Platform SDK API on Meta Quest devices running Horizon OS.
 
 These samples are designed for **third-party developers** building apps for the Meta Quest ecosystem. Each app follows the same architecture (MVVM with Compose) so you can focus on the API usage rather than boilerplate.
 
@@ -90,7 +90,7 @@ Each sample follows an identical layout:
 - **UI:** Jetpack Compose with Material 3
 - **Architecture:** MVVM (ViewModel + sealed UiState)
 - **Build:** Gradle with Version Catalogs
-- **SDK:** Horizon Platform SDK (`com.meta.horizon.platform.sdk`)
+- **SDK:** VR Platform SDK (`com.meta.horizon.platform.sdk`)
 - **Min SDK:** 34 (Android 14)
 - **Target SDK:** 36
 

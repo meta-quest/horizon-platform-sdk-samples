@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug in the Horizon Platform SDK samples
+about: Report a bug in the VR Platform SDK samples
 title: '[Bug] '
 labels: bug
 ---

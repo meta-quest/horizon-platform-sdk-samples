@@ -1,6 +1,6 @@
-# Agent Instructions — Horizon Platform SDK Android Sample Apps
+# Agent Instructions — VR Platform SDK Android Sample Apps
 
-Collection of standalone Android sample apps, one per public Horizon Platform SDK API, showing how to integrate a single Platform SDK feature on Meta Quest devices running Horizon OS.
+Collection of standalone Android sample apps, one per public VR Platform SDK API, showing how to integrate a single Platform SDK feature on Meta Quest devices running Horizon OS.
 
 ## Source-of-truth files (read these first, do not duplicate their contents in this file)
 

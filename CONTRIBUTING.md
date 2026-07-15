@@ -5,13 +5,13 @@
   LICENSE file in the root directory of this source tree.
 -->
 
-# Contributing to Horizon Platform SDK Sample Apps
+# Contributing to VR Platform SDK Sample Apps
 
 ## Welcome
 
-Thanks for your interest in contributing to the Horizon Platform SDK sample apps.
+Thanks for your interest in contributing to the VR Platform SDK sample apps.
 
-This repository contains standalone Android sample apps demonstrating each Horizon Platform SDK API for third-party developers. Before contributing, please review our [Code of Conduct](CODE_OF_CONDUCT.md).
+This repository contains standalone Android sample apps demonstrating each VR Platform SDK API for third-party developers. Before contributing, please review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## How to Contribute
 
