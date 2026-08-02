@@ -49,7 +49,7 @@ class MainActivity : ComponentActivity() {
         throw IllegalStateException(
             "Please set your APPLICATION_ID. " +
                 "Follow the instructions at https://developers.meta.com/horizon/documentation/android-apps/ps-setup-kotlin/ " +
-                "to create and retrieve your application ID."
+                "to create and retrieve your application ID.",
         )
 
   override fun onCreate(savedInstanceState: Bundle?) {
