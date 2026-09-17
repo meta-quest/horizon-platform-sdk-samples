@@ -20,7 +20,7 @@ class IapViewModelTest {
     assertThat(state.resultMessage).isNull()
     assertThat(state.errorMessage).isNull()
     assertThat(state.availableSkus)
-        .containsExactly("SKU-sub-1", "sku-consumable-1", "sku-dur-1", "sku-dur-2", "sku1", "sku2")
+        .containsExactly("sku-sub-1", "sku-consumable-1", "sku-dur-1", "sku-dur-2", "sku1", "sku2")
     assertThat(state.selectedSkus).isEmpty()
   }
 
@@ -58,7 +58,7 @@ class IapViewModelTest {
     val updated = state.copy(selectedSkus = listOf("sku1", "sku2"))
 
     assertThat(updated.availableSkus)
-        .containsExactly("SKU-sub-1", "sku-consumable-1", "sku-dur-1", "sku-dur-2", "sku1", "sku2")
+        .containsExactly("sku-sub-1", "sku-consumable-1", "sku-dur-1", "sku-dur-2", "sku1", "sku2")
     assertThat(updated.selectedSkus).containsExactly("sku1", "sku2")
   }
 }

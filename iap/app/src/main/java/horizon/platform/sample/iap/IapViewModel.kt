@@ -22,7 +22,7 @@ data class IapUiState(
     val resultMessage: String? = null,
     val errorMessage: String? = null,
     val availableSkus: List<String> =
-        listOf("SKU-sub-1", "sku-consumable-1", "sku-dur-1", "sku-dur-2", "sku1", "sku2"),
+        listOf("sku-sub-1", "sku-consumable-1", "sku-dur-1", "sku-dur-2", "sku1", "sku2"),
     val selectedSkus: List<String> = emptyList(),
 )
 
