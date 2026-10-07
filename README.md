@@ -14,7 +14,7 @@ Standalone Android sample apps demonstrating each [VR Platform SDK](https://deve
 
 ## What is this?
 
-This repository contains **16 standalone Gradle projects**, one for each public VR Platform SDK API. Each sample is a minimal, self-contained Android app built with Kotlin and Jetpack Compose that shows how to integrate and call a single Platform SDK API on Meta Quest devices running Horizon OS.
+This repository contains **15 standalone Gradle projects**, one for each public VR Platform SDK API. Each sample is a minimal, self-contained Android app built with Kotlin and Jetpack Compose that shows how to integrate and call a single Platform SDK API on Meta Quest devices running Horizon OS.
 
 These samples are designed for **third-party developers** building apps for the Meta Quest ecosystem. Each app follows the same architecture (MVVM with Compose) so you can focus on the API usage rather than boilerplate.
 
@@ -56,7 +56,6 @@ These samples are designed for **third-party developers** building apps for the 
 | `leaderboards/` | Leaderboards | Submit scores and query leaderboard rankings |
 | `notifications/` | Notifications | Send and manage in-app notifications |
 | `rateandreview/` | Rate and Review | Request users to rate and review the app |
-| `richpresence/` | Rich Presence | Set detailed presence info visible to friends |
 | `useragecategory/` | User Age Category | Query the user's age category for content gating |
 | `users/` | Users | Retrieve user profile information |
 

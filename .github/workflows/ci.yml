@@ -31,7 +31,6 @@ jobs:
           - leaderboards
           - notifications
           - rateandreview
-          - richpresence
           - useragecategory
           - users
     steps:
